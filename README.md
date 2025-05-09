@@ -4,26 +4,26 @@ This repository hosts short, expository, notebooks mainly related to outreach an
 
 ## PLUS magazine article on Incidence:
 
-incidence_sim.ipynb
+* incidence_sim.ipynb
 
 ## BMJ COVID Unknowns Talk:
 
-bmj.ipynb
-/bmjfigs/
+* bmj.ipynb
+* /bmjfigs/
 
 ## CID Paper on Immunity Debt
 
-debt.ipynb
-rsv_stylised.pdf
-stylised_hosp.pdf
-stylised_serology.pdf
+* debt.ipynb
+* rsv_stylised.pdf
+* stylised_hosp.pdf
+* stylised_serology.pdf
 
 ## JRSSA Response to Wood et al.
 
-Het.ipynb
+* Het.ipynb
 
 ## General Repo Files
 
-README.md
-LICENSE
-.gitignore
+* README.md
+* LICENSE
+* .gitignore
